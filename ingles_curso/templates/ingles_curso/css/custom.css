@@ -1,0 +1,45 @@
+
+
+/*
+ * This CSS file is for customization purpose only
+ */ 
+
+div.module div.yoo-gallery {
+	margin: 15px auto 5px auto;
+	width: 600px;
+}
+
+#usuario{
+	width:14px;
+	height:14px;
+	background-image:url(../images/usuario.png);
+	background-repeat:no-repeat;
+	margin:0px;
+}
+#senha{
+	width:16px;
+	height:16px;
+	margin:0px;
+	background-image:url(../images/senha.png);
+	background-repeat:no-repeat;
+}
+#entrar{
+	width:77px;
+	height:22px;
+	background-image:url(../images/entrar.png);
+	background-repeat:no-repeat;
+	border:none;
+	background-color:#951131;
+}
+#modlgn_username, #modlgn_passwd{
+	background-image:url(../images/fundo_input.gif);
+	background-repeat:repeat-x;
+	border:none;
+	height:18px;
+	border-left: 1px solid #690c23;
+	border-right: 1px solid #690c23;
+}
+div#footer p{
+	color: #1d468c;
+	font-size:10px;
+}

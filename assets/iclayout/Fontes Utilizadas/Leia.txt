@@ -1,0 +1,2 @@
+Na maior parte do Layout foi utilizado Trebuchet Ms e Arial que são fontes que já vem instaladas com o Windows.
+Em alguns Títulos foi usada a Arial Rounded MT Bold Normal que se encontra nesta pasta.
